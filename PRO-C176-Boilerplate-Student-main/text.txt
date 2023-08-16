@@ -1,0 +1,7 @@
+The basic syntax of the jQuery is: 
+$(selector).action() 
+$: The dollar symbol denotes the beginning of a jQuery function. 
+selector: It is the id, tag name, class name of the HTML element that we want to select. 
+action: It is a jQuery action that can be performed on the selected element, like, setting an attribute or hiding an element.
+<span> tags are similar to <div> tags, but the only difference is that <span> tags are inline tags while <div> tags are block tags.
+This means that if we use two <div> tags, it will be displayed in two different lines, but two <span> tags can be displayed side by side.

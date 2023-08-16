@@ -1,0 +1,5 @@
+Browser sends an HTTP request.
+Server responds and sends back the requested HTML file. 
+● Browser begins to render HTML. 
+● Browser then sends additional requests for objects present in the HTML file (CSS files, images, JavaScript, etc.).
+ajax - asynchronous JavaScript xml

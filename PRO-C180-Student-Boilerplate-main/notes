@@ -1,0 +1,2 @@
+minDistance: When this value is set, then if the distance of the user (having the GPS device) is lower than this value, then the entity at that position/location will not be shown. 
+● positionMinAccuracy: Sets the tracking accuracy at that position.

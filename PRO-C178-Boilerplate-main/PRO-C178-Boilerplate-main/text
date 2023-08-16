@@ -1,0 +1,5 @@
+GeolocateControl: This control provides the button that will use the browser's location to find the current location of the user. 
+● NavigationControl: This control contains the zoom in and zoom out buttons. 
+● position: position of the control on the page. 
+● valid values: 'top-left' , 'top-right' , 'bottom-left' , and bottom-right'. Default: 'top-right'.
+total 22 zoom level available 
